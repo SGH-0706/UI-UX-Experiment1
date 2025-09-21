@@ -44,6 +44,7 @@ Create a simple prototype (e.g., a login screen) in Figma/Adobe XD.
 Compare the features, usability, and collaboration support of each tool.
 
 ## Output:
+[exp 1 uiux.pdf](https://github.com/user-attachments/files/22453270/exp.1.uiux.pdf)
 
 ## Result:
 The experiments helped in understanding the fundamentals of UI and UX, their differences, and their interrelationship. Real-world case studies highlighted how design impacts user satisfaction. Various tools such as Figma, Adobe XD, and Sketch were explored, which aid in creating effective interfaces and enhancing user experiences. Overall, the study showed that UI and UX work hand-in-hand to deliver successful digital products.
